@@ -1,0 +1,18 @@
+# Maven
+target/
+autobots/target/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
